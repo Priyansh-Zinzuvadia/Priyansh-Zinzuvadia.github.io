@@ -1,6 +1,7 @@
 # Priyansh-Zinzuvadia.github.io
 ## Moon Landings Dataset
-This dataset describes the human journey travelling through space and touching the Moon’s surface by different nations.  To access the dataset, [click here](https://www.kaggle.com/datasets/anoopjohny/moon-landings?resource=download)  The dataset consists of eight columns which are described as follows:  _Mission:_ It provides the mission name.  _Spacecraft:_ It provides the spacecraft name.
+This dataset describes the human journey travelling through space and touching the Moon’s surface by different nations.  
+To access the dataset, [click here](https://www.kaggle.com/datasets/anoopjohny/moon-landings?resource=download)  The dataset consists of eight columns which are described as follows:  _Mission:_ It provides the mission name.  _Spacecraft:_ It provides the spacecraft name.
 _Launch date:_ The date on which the spacecraft was launched from Earth.
 _Carrier Rocket:_ The rocket that carries the spacecraft from Earth.
 _Operator:_ The Nation/Organization has conducted the Mission.
