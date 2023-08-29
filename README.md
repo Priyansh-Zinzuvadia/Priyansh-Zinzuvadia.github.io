@@ -12,8 +12,8 @@
 ### _Outcome:_ It tells the status of the mission.
 ### _Additional Information:_ It provides some details about the mission (can be considered remarks).
 ### This dataset can be used for getting insights like which kinds of missions have a high success rate and what combinations of spacecraft, carrier rocket, and mission type suits the best for gaining success in the mission.
-Further, this dataset can be used to predict the success chances of any mission to be conducted in the future.
-Interactive Data Visualization for the Web
-Author: Scott Murray
-To access this book: Interactive Data Visualization for the Web, please [click here](https://www.oreilly.com/library/view/interactive-data-visualization/9781491921296/)
-This book provides information about the expression of data visually on the web in such a simple manner using javascript and HTML. Along with it, the book provides information regarding plotting different graphs and charts in an easily understandable manner along with the case studies.
+### Further, this dataset can be used to predict the success chances of any mission to be conducted in the future.
+# **Interactive Data Visualization for the Web**
+### Author: Scott Murray
+### To access this book: Interactive Data Visualization for the Web, please [click here](https://www.oreilly.com/library/view/interactive-data-visualization/9781491921296/)
+### This book provides information about the expression of data visually on the web in such a simple manner using javascript and HTML. Along with it, the book provides information regarding plotting different graphs and charts in an easily understandable manner along with the case studies.
