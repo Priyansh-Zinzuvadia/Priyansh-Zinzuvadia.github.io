@@ -6,12 +6,12 @@
 ### _Mission:_ It provides the mission name.  
 ### _Spacecraft:_ It provides the spacecraft name.
 ### _Launch date:_ The date on which the spacecraft was launched from Earth.
-_Carrier Rocket:_ The rocket that carries the spacecraft from Earth.
-_Operator:_ The Nation/Organization has conducted the Mission.
-_Mission Type:_ It describes what functions will be conducted and what kind of output is obtained.
-_Outcome:_ It tells the status of the mission.
-_Additional Information:_ It provides some details about the mission (can be considered remarks).
-This dataset can be used for getting insights like which kinds of missions have a high success rate and what combinations of spacecraft, carrier rocket, and mission type suits the best for gaining success in the mission.
+### _Carrier Rocket:_ The rocket that carries the spacecraft from Earth.
+### _Operator:_ The Nation/Organization has conducted the Mission.
+### _Mission Type:_ It describes what functions will be conducted and what kind of output is obtained.
+### _Outcome:_ It tells the status of the mission.
+### _Additional Information:_ It provides some details about the mission (can be considered remarks).
+### This dataset can be used for getting insights like which kinds of missions have a high success rate and what combinations of spacecraft, carrier rocket, and mission type suits the best for gaining success in the mission.
 Further, this dataset can be used to predict the success chances of any mission to be conducted in the future.
 Interactive Data Visualization for the Web
 Author: Scott Murray
